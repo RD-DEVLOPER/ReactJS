@@ -1,0 +1,22 @@
+
+Learn the web devlopment
+
+https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n
+
+*learn html tutorial
+	https://devdocs.io/
+	w3schools
+	MDN
+
+*typing practice
+	www.keybr.com
+
+*online coder
+
+	https://codepen.io/pen/
+
+*utf (all the symbols are inclded)
+	https://unicode-table.com/en/
+
+*crop the image in circle
+	https://crop-circle.imageonline.co/
